@@ -1,0 +1,74 @@
+.container{
+   
+  max-width: 50%;
+  padding-top: 50px;
+  padding-bottom: 70%;
+  margin: 0 auto;
+  color: black;
+  padding: 100px;
+  border: solid 1px;
+  border-color: black;
+  background: #c6c6c6;
+}
+
+.definicion{
+  text-align: center;
+  padding: 25px ;
+}
+#titulo_1{
+  text-align: center;
+}
+#imagenes{
+  width: 35vh;
+  height: 25vw;
+}
+ 
+h1 {
+  font-size: 35px;
+  font-family: 'Kablammo', cursive;
+}
+
+.fondo{
+  background: #005dab;
+}
+#subtitulo{
+  font-size: 35px;
+  font-family: 'Kablammo', cursive;
+  color:green;
+  background-color: #43393b;
+    
+}
+.Contacto{
+  align-content: center;
+}
+ 
+label{
+  text-align: center;
+padding-left: 2px;
+padding-right: 15px;
+padding-top: 3px;
+padding-bottom: 3px;
+}
+
+
+ 
+.Titulo_Encabezado {
+  
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  border: solid 1px;
+  border-color: black;
+  background-color: #43393b;
+}
+
+.Cuerpo_encabezado{
+  
+  padding-top: 25px;
+  padding-bottom: 45px;
+  background: #c6c6c6;
+}
+
+body{
+  background-color: white;
+}
